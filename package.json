@@ -1,0 +1,26 @@
+{
+  "name": "promises-queue",
+  "version": "1.0.0",
+  "description": "Promises queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiaba/promises-queue.git"
+  },
+  "keywords": [
+    "promise",
+    "queue"
+  ],
+  "author": "NPM Kiaba <artur.kvasnii@gmail.com> (https://www.npmjs.com/~kiaba)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiaba/promises-queue/issues"
+  },
+  "homepage": "https://github.com/Kiaba/promises-queue#readme",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}

@@ -1,2 +1,2 @@
 # promises-queue
-Promises list
+Promises queue
