@@ -1,6 +1,6 @@
 {
   "name": "promises-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promises list",
   "main": "index.js",
   "scripts": {
